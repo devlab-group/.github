@@ -11,11 +11,9 @@
   <a href="mailto:dmitry@devlab.group">Start a conversation</a>
 </p>
 
-## Engineering with ownership
+&nbsp;&nbsp;
 
-We are **DevLab**, an engineering team building protocols, financial infrastructure, and the systems around them. Since 2018, we have worked on **20+ projects**, taking responsibility for architecture, implementation, integrations, and production delivery.
-
-We work with founders and product teams on new products, help recover existing systems, and own technical workstreams alongside in-house engineers.
+We are **DevLab**, an engineering team building protocols, financial infrastructure, and the systems around them. Since 2018, we have worked on **20+ projects**, taking responsibility for architecture, implementation, integrations, and production delivery. We work with founders and product teams on new products, help recover existing systems, and own technical workstreams alongside in-house engineers.
 
 
 | Focus | Engineering scope |
